@@ -1,0 +1,15 @@
+.banner {
+	background-size: cover;
+	background-position: center;
+	padding: 200px 0;
+}
+
+.b-paragraph {
+	color: white;
+}
+
+.banner p {
+	color: white !important;
+    opacity: .95;
+    font-size: 20px;
+}
